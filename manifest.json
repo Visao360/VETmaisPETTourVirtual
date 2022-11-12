@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF",
- "name": "Projeto Vet e Pet ",
- "display": "fullscreen",
  "background_color": "#FFFFFF",
- "start_url": "index.htm?installed=true"
+ "display": "fullscreen",
+ "name": "Projeto Vet e Pet ",
+ "start_url": "index.htm?installed=true",
+ "theme_color": "#FFFFFF"
 }
