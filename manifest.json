@@ -1,4 +1,7 @@
 {
+ "background_color": "#FFFFFF",
+ "name": "Projeto Vet e Pet ",
+ "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true",
- "name": "Projeto Vet e Pet ",
- "display": "fullscreen",
- "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF"
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true"
 }
